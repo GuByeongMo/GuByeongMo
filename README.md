@@ -1,4 +1,4 @@
-## Hi there 👋
+## 충북대학교 소프트웨어학부 3학년 구병모 Github 입니다.
 
 <!--
 **GuByeongMo/GuByeongMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
